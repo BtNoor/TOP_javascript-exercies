@@ -20,7 +20,6 @@ const palindromes = function(word) {
             } 
     }
 
-    //newWord = newArr.toLowerCase();
     console.log(`new string is ${newArr} and original string was ${testedWord}`)
     
     if (newArr == testedWord) {
